@@ -1,0 +1,2 @@
+20230717	22:20:32	40fc16d9-6c8e-4b73-bb21-d879aa8d48c9	Error: Not Allowed by CORS
+20230717	22:42:02	4f475ec4-215d-4538-8938-36b95f3adac7	Error: ENOENT: no such file or directory, stat 'D:\NodeJS\Basics\07TUT\routes\views\index.html'
